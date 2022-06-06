@@ -3,4 +3,4 @@ Aquest és un curs de Git
 i seguim amb el Stage de Git
 i ho tornem a modificar de nou
 nou canvi després de pujar a Github
-
+nova linia des del repositori de GitHub
