@@ -1,2 +1,4 @@
 Hola món des de Git
 Aquest és un curs de Git
+i seguim amb el Stage de Git
+
